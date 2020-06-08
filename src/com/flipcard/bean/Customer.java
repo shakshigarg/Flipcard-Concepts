@@ -8,6 +8,7 @@ package com.flipcard.bean;
  *
  */
 public class Customer {
+	
 	private int custId;
 	private String custName;
 	private String custAddress;
